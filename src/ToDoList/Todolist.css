@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+button{ /* when decorating the drum class it will affect hav an imapct on all the different buttons*/
+    outline: none;
+    border: 5px solid rgb(23, 29, 117);
+    border-radius: 15px; /*makes the border curved*/
+    width: 70px;
+    height: 50px;
+    text-align: center;
+    margin: 10px; /*seperates each button*/
+  }
